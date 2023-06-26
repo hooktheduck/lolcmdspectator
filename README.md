@@ -10,13 +10,6 @@ Surely not! If you are worried you can always run this via the python script. Fe
 
 This process is unrelated to the launcher, so your online status does not change, and you don't even have to be logged in. Furthermore, this method still works even if spectating is bugged in the launcher.
 
-## Prerequisites
-
-Before you begin, make sure you have the following:
-
-- An active League of Legends account
-- A valid email address associated with your League of Legends account
-- Basic knowledge of using a web browser and navigating websites
 
 ## Steps to Retrieve Riot API Key
 
@@ -30,6 +23,6 @@ Before you begin, make sure you have the following:
 
 5. Keep in mind that you can easily create a 24 hour expiration key on your [dashboard](https://developer.riotgames.com/).
 
-6. Paste your gathered api key into the src/api_key.txt. Make sure to not include any additional symbols or white space.
+6. Paste your gathered api key into the api_key.txt. Make sure to not include any additional symbols or white space.
 
-7. You can now run the exe file or run the python script. Keep in mind that you will need to install riotwatcher (pip install riotwatcher) if you want to use the python script.
+7. You can now run the exe file or run the python script. Keep in mind that you will need to install riotwatcher (pip install [riotwatcher](https://riot-watcher.readthedocs.io/en/latest/)) if you want to use the python script.
