@@ -2,6 +2,10 @@
 
 This tutorial provides step-by-step instructions on how to retrieve your Riot API key for accessing the League of Legends API. The API key is required to make API requests and retrieve game data.
 
+## Disclaimer
+
+This does only work if your game is in the following directory: C:\Riot Games\League of Legends\Game. I will include custom directories in the future.
+
 ## Is this a virus?
 
 Surely not! If you are worried you can always run this via the python script. Feel free to scan the .exe at VirusTotal. My virus scanner does indeed block the execution of the .exe file.
